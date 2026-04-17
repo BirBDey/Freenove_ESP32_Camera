@@ -21,8 +21,8 @@
 
 #include "camera_pins.h"
 
-const char* ssid = "BirStephWiFi";
-const char* password = "Uri876Ah@";
+const char* ssid = "SSID";
+const char* password = "Password";
 
 void startCameraServer();
 
